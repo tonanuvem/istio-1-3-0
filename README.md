@@ -3,6 +3,10 @@
 [![codecov.io](https://codecov.io/github/istio/istio/coverage.svg?branch=master)](https://codecov.io/github/istio/istio?branch=master)
 [![GolangCI](https://golangci.com/badges/github.com/istio/istio.svg)](https://golangci.com/r/github.com/istio/istio)
 
+# istio-1-3-0-win
+
+Link oficial: https://github.com/istio/istio/releases/download/1.3.0/istio-1.3.0-win.zip
+
 # Istio
 
 An open platform to connect, manage, and secure microservices.
